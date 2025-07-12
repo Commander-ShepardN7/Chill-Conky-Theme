@@ -45,6 +45,9 @@ You'll need to manually set some stuff
 - Chill Cal and App (appointments)
 1. You need calcurse, as metioned above, to use this
 
+-Images
+1. I supplied some .xcf files in the ```res``` directory for you to edit them as you see fit
+
 # Tested Enviroment
 This theme was made on Pop!_OS 22.04 using GNOME 42.9. 
 
